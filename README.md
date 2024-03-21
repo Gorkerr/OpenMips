@@ -1,0 +1,1 @@
+This is a project that writing a mini mips cpu by verilog.
